@@ -14,3 +14,5 @@ const { printName } = logger
 
 //TypeError: Cannot read property 'print' of undefined
 console.log(printName()) 
+
+
